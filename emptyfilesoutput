@@ -1,0 +1,8 @@
+./.git/branches
+./.git/refs/tags
+./.git/objects/pack
+./.git/objects/info
+./0x00-shell_basics/7-move
+./0x00-shell_basics/that
+./0x00-shell_basics/file
+./emptyfilesoutput
